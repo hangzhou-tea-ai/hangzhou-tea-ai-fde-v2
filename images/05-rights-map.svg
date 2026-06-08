@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 686" width="1600" height="686">
+  <rect width="1600" height="686" fill="#fafaf8"/>
+  <defs>
+    <style>
+      .meta{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;letter-spacing:6px;fill:#737373;font-weight:600}
+      .title{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:72px;fill:#0a0a0a;font-weight:300;letter-spacing:-2px}
+      .label{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:30px;fill:#0a0a0a;font-weight:500}
+      .small{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:22px;fill:#525252}
+      .score{font-family:Inter,Helvetica,sans-serif;font-size:44px;fill:#002FA7;font-weight:300}
+    </style>
+  </defs>
+  <text x="80" y="84" class="meta">9800 RIGHTS MAP</text>
+  <text x="80" y="170" class="title">会员权益不是清单，是内容素材库</text>
+  <line x1="80" y1="218" x2="1520" y2="218" stroke="#d4d4d2" stroke-width="2"/>
+  <g transform="translate(80,270)">
+    <rect width="440" height="118" fill="#002FA7"/>
+    <text x="32" y="56" class="label" fill="#fff">健康茶礼 10 盒</text>
+    <text x="32" y="92" class="small" fill="#fff">送礼、选茶、日常喝茶</text>
+    <text x="354" y="78" class="score" fill="#fff">95</text>
+  </g>
+  <g transform="translate(580,270)">
+    <rect width="440" height="118" fill="#f0f0ee"/>
+    <text x="32" y="56" class="label">生活馆空间</text>
+    <text x="32" y="92" class="small">茶会、会客、到店理由</text>
+    <text x="354" y="78" class="score">88</text>
+  </g>
+  <g transform="translate(1080,270)">
+    <rect width="440" height="118" fill="#f0f0ee"/>
+    <text x="32" y="56" class="label">高价值线下课</text>
+    <text x="32" y="92" class="small">茶道、手作、健康生活</text>
+    <text x="354" y="78" class="score">80</text>
+  </g>
+  <g transform="translate(80,442)">
+    <rect width="440" height="118" fill="#f0f0ee"/>
+    <text x="32" y="56" class="label">湄潭茶旅</text>
+    <text x="32" y="92" class="small">茶园故事、来源背书</text>
+    <text x="354" y="78" class="score">72</text>
+  </g>
+  <g transform="translate(580,442)">
+    <rect width="440" height="118" fill="#f0f0ee"/>
+    <text x="32" y="56" class="label">复购权益</text>
+    <text x="32" y="92" class="small">长期喝茶成本</text>
+    <text x="354" y="78" class="score" fill="#737373">50</text>
+  </g>
+  <g transform="translate(1080,442)">
+    <rect width="440" height="118" fill="#0a0a0a"/>
+    <text x="32" y="56" class="label" fill="#fff">推广资格</text>
+    <text x="32" y="92" class="small" fill="#fff">私信 / 到店合规解释</text>
+    <text x="354" y="78" class="score" fill="#fff">35</text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 686" width="1600" height="686">
+  <rect width="1600" height="686" fill="#fafaf8"/>
+  <defs>
+    <style>
+      .meta{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;letter-spacing:6px;fill:#737373;font-weight:600}
+      .title{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:72px;fill:#0a0a0a;font-weight:300;letter-spacing:-2px}
+      .label{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:30px;fill:#0a0a0a;font-weight:500}
+      .small{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:22px;fill:#525252}
+      .mono{font-family:Inter,Helvetica,sans-serif;font-size:24px;letter-spacing:4px;fill:#737373;font-weight:600}
+    </style>
+    <marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L0,12 L12,6 z" fill="#002FA7"/>
+    </marker>
+  </defs>
+  <text x="80" y="84" class="meta">LEAD CRM</text>
+  <text x="80" y="170" class="title">每条线索必须有下一步</text>
+  <line x1="80" y1="218" x2="1520" y2="218" stroke="#d4d4d2" stroke-width="2"/>
+  <g transform="translate(80,285)">
+    <rect width="310" height="92" fill="#f0f0ee"/><text x="28" y="58" class="label">线下人脉</text>
+    <rect y="120" width="310" height="92" fill="#f0f0ee"/><text x="28" y="178" class="label">到店茶友</text>
+    <rect y="240" width="310" height="92" fill="#f0f0ee"/><text x="28" y="298" class="label">小红书私信</text>
+  </g>
+  <path d="M430 451 H620" stroke="#002FA7" stroke-width="5" marker-end="url(#arr)"/>
+  <g transform="translate(660,274)">
+    <rect width="410" height="350" fill="#002FA7"/>
+    <text x="34" y="60" class="label" fill="#fff">CRM 字段</text>
+    <text x="34" y="115" class="small" fill="#fff">来源 / 用户问题</text>
+    <text x="34" y="160" class="small" fill="#fff">意向标签 / 当前阶段</text>
+    <text x="34" y="205" class="small" fill="#fff">跟进人 / 下一步动作</text>
+    <text x="34" y="250" class="small" fill="#fff">讲解记录 / 流失原因</text>
+    <line x1="34" y1="294" x2="376" y2="294" stroke="#fff" stroke-width="2" opacity=".4"/>
+    <text x="34" y="328" class="mono" fill="#fff">ONE RECORD · ONE OWNER</text>
+  </g>
+  <path d="M1110 451 H1290" stroke="#002FA7" stroke-width="5" marker-end="url(#arr)"/>
+  <g transform="translate(1320,318)">
+    <rect width="200" height="82" fill="#f0f0ee"/><text x="24" y="52" class="label">深聊</text>
+    <rect y="112" width="200" height="82" fill="#f0f0ee"/><text x="24" y="164" class="label">到店</text>
+    <rect y="224" width="200" height="82" fill="#0a0a0a"/><text x="24" y="276" class="label" fill="#fff">复盘</text>
+  </g>
+</svg>

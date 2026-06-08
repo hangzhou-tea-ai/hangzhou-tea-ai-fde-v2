@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 686" width="1600" height="686">
+  <rect width="1600" height="686" fill="#fafaf8"/>
+  <defs>
+    <style>
+      .meta{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;letter-spacing:6px;fill:#737373;font-weight:600}
+      .title{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:72px;fill:#0a0a0a;font-weight:300;letter-spacing:-2px}
+      .label{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;fill:#0a0a0a;font-weight:500}
+      .small{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:21px;fill:#525252}
+      .num{font-family:Inter,Helvetica,sans-serif;font-size:26px;fill:#002FA7;font-weight:600}
+    </style>
+  </defs>
+  <text x="80" y="84" class="meta">CONTENT PILLARS</text>
+  <text x="80" y="170" class="title">六个栏目先建立信任</text>
+  <line x1="80" y1="218" x2="1520" y2="218" stroke="#d4d4d2" stroke-width="2"/>
+  <g transform="translate(80,270)">
+    <rect width="210" height="250" fill="#f0f0ee"/>
+    <text x="24" y="48" class="num">01</text>
+    <text x="24" y="100" class="label">茶文化</text>
+    <text x="24" y="138" class="small">六大茶类</text>
+    <text x="24" y="170" class="small">节气喝茶</text>
+    <line x1="24" y1="210" x2="186" y2="210" stroke="#002FA7" stroke-width="6"/>
+  </g>
+  <g transform="translate(318,270)">
+    <rect width="210" height="250" fill="#002FA7"/>
+    <text x="24" y="48" class="num" fill="#fff">02</text>
+    <text x="24" y="100" class="label" fill="#fff">茶艺泡法</text>
+    <text x="24" y="138" class="small" fill="#fff">水温</text>
+    <text x="24" y="170" class="small" fill="#fff">出汤时间</text>
+    <line x1="24" y1="210" x2="186" y2="210" stroke="#fff" stroke-width="6"/>
+  </g>
+  <g transform="translate(556,270)">
+    <rect width="210" height="250" fill="#f0f0ee"/>
+    <text x="24" y="48" class="num">03</text>
+    <text x="24" y="100" class="label">评茶选茶</text>
+    <text x="24" y="138" class="small">香气</text>
+    <text x="24" y="170" class="small">汤色口感</text>
+    <line x1="24" y1="210" x2="186" y2="210" stroke="#0a0a0a" stroke-width="6"/>
+  </g>
+  <g transform="translate(794,270)">
+    <rect width="210" height="250" fill="#f0f0ee"/>
+    <text x="24" y="48" class="num">04</text>
+    <text x="24" y="100" class="label">生活馆</text>
+    <text x="24" y="138" class="small">茶席</text>
+    <text x="24" y="170" class="small">到店理由</text>
+    <line x1="24" y1="210" x2="186" y2="210" stroke="#737373" stroke-width="6"/>
+  </g>
+  <g transform="translate(1032,270)">
+    <rect width="210" height="250" fill="#f0f0ee"/>
+    <text x="24" y="48" class="num">05</text>
+    <text x="24" y="100" class="label">茶园茶杯</text>
+    <text x="24" y="138" class="small">采摘制茶</text>
+    <text x="24" y="170" class="small">来源认知</text>
+    <line x1="24" y1="210" x2="186" y2="210" stroke="#0a0a0a" stroke-width="6"/>
+  </g>
+  <g transform="translate(1270,270)">
+    <rect width="250" height="250" fill="#0a0a0a"/>
+    <text x="24" y="48" class="num" fill="#fff">06</text>
+    <text x="24" y="100" class="label" fill="#fff">中式健康</text>
+    <text x="24" y="138" class="small" fill="#fff">待客亲子</text>
+    <text x="24" y="170" class="small" fill="#fff">女性养生</text>
+    <line x1="24" y1="210" x2="216" y2="210" stroke="#002FA7" stroke-width="6"/>
+  </g>
+</svg>

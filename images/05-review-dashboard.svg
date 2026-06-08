@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 686" width="1600" height="686">
+  <rect width="1600" height="686" fill="#fafaf8"/>
+  <defs>
+    <style>
+      .meta{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;letter-spacing:6px;fill:#737373;font-weight:600}
+      .title{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:72px;fill:#0a0a0a;font-weight:300;letter-spacing:-2px}
+      .label{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;fill:#0a0a0a;font-weight:500}
+      .small{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:22px;fill:#525252}
+      .big{font-family:Inter,Helvetica,sans-serif;font-size:82px;fill:#002FA7;font-weight:200;letter-spacing:-4px}
+    </style>
+  </defs>
+  <text x="80" y="84" class="meta">REVIEW DASHBOARD</text>
+  <text x="80" y="170" class="title">用漏斗判断是否继续投入</text>
+  <line x1="80" y1="218" x2="1520" y2="218" stroke="#d4d4d2" stroke-width="2"/>
+  <g transform="translate(80,280)">
+    <rect width="320" height="300" fill="#f0f0ee"/>
+    <text x="28" y="58" class="label">内容稳定性</text><text x="28" y="130" class="big">发布</text>
+    <line x1="28" y1="182" x2="292" y2="182" stroke="#002FA7" stroke-width="8"/>
+    <text x="28" y="232" class="small">发布数 / 选题 / 素材供给</text>
+  </g>
+  <g transform="translate(430,280)">
+    <rect width="320" height="300" fill="#f0f0ee"/>
+    <text x="28" y="58" class="label">兴趣信号</text><text x="28" y="130" class="big" fill="#0a0a0a">互动</text>
+    <line x1="28" y1="182" x2="246" y2="182" stroke="#0a0a0a" stroke-width="8"/>
+    <text x="28" y="232" class="small">收藏 / 评论 / 私信</text>
+  </g>
+  <g transform="translate(780,280)">
+    <rect width="320" height="300" fill="#002FA7"/>
+    <text x="28" y="58" class="label" fill="#fff">线索质量</text><text x="28" y="130" class="big" fill="#fff">线索</text>
+    <line x1="28" y1="182" x2="292" y2="182" stroke="#fff" stroke-width="8"/>
+    <text x="28" y="232" class="small" fill="#fff">来源 / 意向 / 下一步</text>
+  </g>
+  <g transform="translate(1130,280)">
+    <rect width="390" height="300" fill="#0a0a0a"/>
+    <text x="28" y="58" class="label" fill="#fff">商业结果</text><text x="28" y="130" class="big" fill="#fff">成交</text>
+    <line x1="28" y1="182" x2="336" y2="182" stroke="#002FA7" stroke-width="8"/>
+    <text x="28" y="232" class="small" fill="#fff">到店 / 讲解 / 流失原因</text>
+  </g>
+</svg>

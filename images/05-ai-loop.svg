@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 686" width="1600" height="686">
+  <rect width="1600" height="686" fill="#fafaf8"/>
+  <defs>
+    <style>
+      .meta{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:28px;letter-spacing:6px;fill:#737373;font-weight:600}
+      .title{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:72px;fill:#0a0a0a;font-weight:300;letter-spacing:-2px}
+      .label{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:32px;fill:#0a0a0a;font-weight:500}
+      .small{font-family:Inter,Helvetica,'Noto Sans SC',sans-serif;font-size:24px;fill:#525252;font-weight:400}
+      .num{font-family:Inter,Helvetica,sans-serif;font-size:34px;fill:#002FA7;font-weight:600}
+    </style>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+      <path d="M0,0 L0,14 L14,7 z" fill="#002FA7"/>
+    </marker>
+  </defs>
+  <text x="80" y="84" class="meta">AI OPERATION LOOP</text>
+  <text x="80" y="170" class="title">每周一轮内容生产闭环</text>
+  <line x1="80" y1="218" x2="1520" y2="218" stroke="#d4d4d2" stroke-width="2"/>
+  <circle cx="800" cy="392" r="178" fill="none" stroke="#002FA7" stroke-width="4"/>
+  <circle cx="800" cy="392" r="84" fill="none" stroke="#0a0a0a" stroke-width="2"/>
+  <path d="M800 214 C955 214 1078 337 1078 392" fill="none" stroke="#002FA7" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M1078 392 C1078 547 955 570 800 570" fill="none" stroke="#002FA7" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M800 570 C645 570 522 447 522 392" fill="none" stroke="#002FA7" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M522 392 C522 237 645 214 800 214" fill="none" stroke="#002FA7" stroke-width="5" marker-end="url(#arrow)"/>
+  <g>
+    <rect x="622" y="178" width="356" height="82" fill="#002FA7"/>
+    <text x="664" y="231" class="label" fill="#fff">拆解爆款公式</text>
+    <text x="575" y="152" class="num">01</text>
+  </g>
+  <g>
+    <rect x="1095" y="350" width="330" height="82" fill="#f0f0ee"/>
+    <text x="1140" y="403" class="label">AI生成内容</text>
+    <text x="1438" y="403" class="num">02</text>
+  </g>
+  <g>
+    <rect x="626" y="536" width="348" height="82" fill="#002FA7"/>
+    <text x="676" y="589" class="label" fill="#fff">发布与承接</text>
+    <text x="986" y="589" class="num" fill="#fff">03</text>
+  </g>
+  <g>
+    <rect x="180" y="350" width="330" height="82" fill="#f0f0ee"/>
+    <text x="228" y="403" class="label">数据复盘</text>
+    <text x="460" y="403" class="num">04</text>
+  </g>
+  <text x="704" y="403" class="small">内容表现</text>
+  <text x="704" y="436" class="small">线索质量</text>
+  <text x="704" y="469" class="small">成交异议</text>
+</svg>
