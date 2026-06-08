@@ -1,4 +1,4 @@
-# 杭州茶健康生活馆主理人 · AI运营方案 FDE
+# 杭州茶健康生活馆主理人 · AI运营方案FDE
 
 This repository hosts the static HTML PPT for the Hangzhou Tea Health House AI operation FDE plan.
 
